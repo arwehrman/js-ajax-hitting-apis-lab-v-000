@@ -1,3 +1,3 @@
-let getRepositories = function() {
-  
+function getRepositories() {
+
 };
