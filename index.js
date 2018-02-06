@@ -1,3 +1,7 @@
+function displayRepositories() {
+
+};
+
 function getRepositories() {
   const req = new XMLHttpRequest();
   let username = document.getElementById('username').value
