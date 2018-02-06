@@ -12,7 +12,7 @@ function getRepositories() {
 };
 
 function displayBranches() {
-
+  const commits = JSON.parse(this.responseText)
 };
 
 function displayCommits() {
